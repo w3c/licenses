@@ -5,4 +5,4 @@ in the relevant W3C Working Group or make a non-member patent licensing commitme
 
 If you are not the sole contributor to a contribution (pull request), please identify all contributors in the 
 commit message. In the commit, please include on a new line,
-<pre>Contributors: @githubusername1, @githubusername2, ...</pre>
+<pre>Contributors: +@githubusername1, +@githubusername2, ...</pre>
