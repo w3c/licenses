@@ -8,16 +8,17 @@ To use these licenses, put the relevant pair of documents (contributing and lice
 
 ## SPDX
 
-Software that is packaged for [Node.js](https://nodejs.org/en/) and other platforms can benefit from machine-readable license information.
-Visit [SPDX (Software Package Data Exchange)](https://spdx.org/) for more information, and check out [their list of licenses](https://spdx.org/licenses/).
+Software or documentation that is packaged for [Node.js](https://nodejs.org/en/) and other platforms can benefit from machine-readable license information.
+Visit [SPDX (Software Package Data Exchange)](https://spdx.org/) for more information, and check out
+[the complete list of licenses](https://spdx.org/licenses/).
 
-In a Node.js package, for example, you should have [the key `license` in your `package.json`](https://docs.npmjs.com/files/package.json#license),
+In a Node.js package, for example, you should have [a `license` key in your `package.json`](https://docs.npmjs.com/files/package.json#license),
 and its value should be a valid SPDX string:
 
 ```json
 {
-  ⋮
-  "license": "MIT",
-  ⋮
+  "name":    "foo",
+  "version": "1.2.3",
+  "license": "MIT"
 }
 ```
