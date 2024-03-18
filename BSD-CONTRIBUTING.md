@@ -1,4 +1,4 @@
-Contributions to this repository are intended to become part of software licensed under the [3-clause BSD License](https://www.w3.org/Consortium/Legal/2008/03-bsd-license.html). 
+Contributions to this repository are intended to become part of software licensed under the [3-clause BSD License](https://www.w3.org/copyright/3-clause-bsd-license-2008/). 
 
 If you are not the sole contributor to a contribution (pull request), please identify all
 contributors in the pull request comment.

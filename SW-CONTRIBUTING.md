@@ -1,4 +1,4 @@
-Contributions to this repository are intended to become part of software or documents licensed under the [Software and Document License](https://www.w3.org/Consortium/Legal/copyright-software). By committing here, you agree to that licensing of your contributions.
+Contributions to this repository are intended to become part of software or documents licensed under the [Software and Document License](https://www.w3.org/copyright/software-license/). By committing here, you agree to that licensing of your contributions.
 
 If you are not the sole contributor to a contribution (pull request), please identify all contributors in the pull request comment.
 
