@@ -1,5 +1,5 @@
 Contributions to Specifications are made under the
-[W3C CLA](https://www.w3.org/community/about/agreements/cla/).
+[W3C CLA](https://www.w3.org/community/about/process/cla/).
 
 Contributions to other types of Reports in this Repository are licensed by Contributors
 under the [W3C Software and Document License](https://www.w3.org/copyright/software-license/).
